@@ -20,7 +20,7 @@ git clone https://github.com/SAGAtheme/VScode.git $HOME/.vscode/extensions/SAGA
 ```
 git clone https://github.com/SAGAtheme/VScode.git $HOME/.vscode-oss/extensions/SAGA
 ```
-- Set SAGA as your theme in VSCode. 
+2. Set SAGA as your theme in VSCode. 
 
 
 
