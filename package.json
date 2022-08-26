@@ -1,0 +1,37 @@
+{
+  "name": "SAGA-vsc",
+  "displayName": "SAGA for VSCode",
+  "publisher": "SAGA",
+  "description": "A dark theme with colourful shades of pastel",
+  "version": "2.0.0",
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SAGA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SAGA.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SAGAtheme/vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SAGAtheme/vscode/issues"
+  },
+  "icon": "icon.png",
+  "license": "MIT",
+  "__metadata": {
+    "publisherDisplayName": "SAGA",
+    "publisherId": "",
+    "id": "",
+    "isPreReleaseVersion": false
+  }
+}
