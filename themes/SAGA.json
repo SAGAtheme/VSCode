@@ -2104,7 +2104,7 @@
             "name": "comments",
             "scope": ["beginning.punctuation.definition.list.markdown.xi"],
             "settings": {
-                "foreground": "#0f1214"
+                "foreground": "#141719"
             }
         },
         {
@@ -2305,13 +2305,13 @@
         "editorLineNumber.foreground": "#46494b",
         "editorCursor.foreground": "#f5e0dc",
         "editorCursor.background": "#05080a",
-        "editor.selectionBackground": "#141719",
+        "editor.selectionBackground": "#232628",
         "editor.inactiveSelectionBackground": "#FFFFFF20",
         "editorWhitespace.foreground": "#9399b218",
-        "editor.selectionHighlightBackground": "#9399b25e",
-        "editor.selectionHighlightBorder": "#ffc2df30",
-        "editor.findMatchBackground": "#141719",
-        "editor.findMatchBorder": "#b2fff36a",
+        "editor.selectionHighlightBackground": "#141719",
+        "editor.selectionHighlightBorder": "#ffc2df",
+        "editor.findMatchBackground": "#0A0D0F",
+        "editor.findMatchBorder": "#baf7b5",
         "editor.findMatchHighlightBackground": "#fff6c35e",
         "editor.findMatchHighlightBorder": "#ffffff00",
         "editor.findRangeHighlightBackground": "#14171948",
@@ -2320,7 +2320,7 @@
         "editor.rangeHighlightBorder": "#ffffff00",
         "editor.hoverHighlightBackground": "#b2fff33c",
         "editor.wordHighlightStrongBackground": "#141719",
-        "editor.wordHighlightBackground": "#575757b8",
+        "editor.wordHighlightBackground": "#141719",
         "editor.lineHighlightBackground": "#ffffff0A",
         "editor.lineHighlightBorder": "#05080a",
         "editorLineNumber.activeForeground": "#b9fdcd",
