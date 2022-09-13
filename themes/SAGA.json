@@ -611,7 +611,7 @@
             "name": "Comment Markup Link",
             "scope": "comment markup.link",
             "settings": {
-                "foreground": "#0f1214"
+                "foreground": "#373a3c"
             }
         },
         {
@@ -2139,7 +2139,7 @@
             "name": "elements to dim",
             "scope": ["punctuation.definition.tag.xi"],
             "settings": {
-                "foreground": "#0f1214"
+                "foreground": "#373a3c"
             }
         },
         {
@@ -2165,14 +2165,14 @@
             "scope": "comment, punctuation.definition.comment",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#0f1214"
+                "foreground": "#373a3c"
             }
         },
         {
             "name": "[VSCODE-CUSTOM] Markdown Quote",
             "scope": "markup.quote.markdown",
             "settings": {
-                "foreground": "#0f1214"
+                "foreground": "#373a3c"
             }
         },
         {
@@ -2255,7 +2255,7 @@
         "list.hoverForeground": "#dccff2",
         "list.activeSelectionBackground": "#141719",
         "list.activeSelectionForeground": "#dccff2",
-        "tree.indentGuidesStroke": "#0f1214",
+        "tree.indentGuidesStroke": "#373a3c",
         "list.dropBackground": "#05080a",
         "list.highlightForeground": "#b2fff3",
         "list.focusBackground": "#45475a",
@@ -2365,7 +2365,7 @@
         "terminalCursor.background": "#05080a",
         "terminalCursor.foreground": "#f5e0dc",
         "terminal.border": "#141719",
-        "terminal.ansiBlack": "#0f1214",
+        "terminal.ansiBlack": "#373a3c",
         "terminal.ansiBlue": "#b2fff3",
         "terminal.ansiBrightBlack": "#46494b",
         "terminal.ansiBrightBlue": "#b2fff3",
@@ -2391,9 +2391,9 @@
         "tab.activeBorder": "#00000000",
         "tab.activeBorderTop": "#00000000",
         "tab.inactiveBackground": "#05080a",
-        "tab.inactiveForeground": "#0f1214",
+        "tab.inactiveForeground": "#373a3c",
         "scrollbarSlider.background": "#1417197e",
-        "scrollbarSlider.hoverBackground": "#0f1214",
+        "scrollbarSlider.hoverBackground": "#373a3c",
         "scrollbarSlider.activeBackground": "#bfbfbf66",
         "progressBar.background": "#b2fff3",
         "widget.shadow": "#00000080",
@@ -2417,7 +2417,7 @@
         "gitDecoration.addedResourceForeground": "#b9fdcd",
         "gitDecoration.conflictingResourceForeground": "#c8bbde",
         "gitDecoration.deletedResourceForeground": "#ff9fbc",
-        "gitDecoration.ignoredResourceForeground": "#0f1214",
+        "gitDecoration.ignoredResourceForeground": "#373a3c",
         "gitDecoration.modifiedResourceForeground": "#ffc79b",
         "gitDecoration.stageDeletedResourceForeground": "#ff9fbc",
         "gitDecoration.stageModifiedResourceForeground": "#ffc79b",
